@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "spotify-project",
+    "scheme": "spotify-projects",
     "slug": "spotify-project",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,7 +22,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.anonymous.spotifyproject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
